@@ -78,7 +78,6 @@ This Arduino-based project aims to develop a **Human-Following Robot** capable o
 
 ## 🖼️ Project Images
 
-> Replace the image links below with actual image paths (local or hosted).
 
 ### 🛠️ Robot Build & Design
 ![Chassis Build](images/Screenshot%202025-04-17%20122830.png)
